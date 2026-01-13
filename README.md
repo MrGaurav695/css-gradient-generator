@@ -36,7 +36,7 @@ This tool helps generate linear gradient backgrounds visually and provides ready
 
 ## 📸 Preview
 
-<img width="1024" height="768" alt="456321" src="https://github.com/user-attachments/assets/c7142794-864e-4ca5-a42c-8c04ec79fedf" />
+<img width="1024" height="768" alt="456321" src="https://github.com/user-attachments/assets/59ce5fe1-786d-4d86-96ec-6ed542bce865" />
 
 ---
 
