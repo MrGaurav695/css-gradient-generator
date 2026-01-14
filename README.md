@@ -6,12 +6,12 @@ This tool helps generate linear gradient backgrounds visually and provides ready
 ---
 
 ## 🚀 Live Demo
-🔗 Live Preview: [[Add your live link here](https://mrgaurav695.github.io/css-gradient-generator/)]
+🔗 Live Preview: [[live link here](https://mrgaurav695.github.io/css-gradient-generator/)]
 
 ---
 
 ## 📂 GitHub Repository
-🔗 Repository: [[Add your GitHub repo link here](https://github.com/MrGaurav695/css-gradient-generator.git)]
+🔗 Repository: [[GitHub repo link here](https://github.com/MrGaurav695/css-gradient-generator.git)]
 
 ---
 
